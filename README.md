@@ -5,6 +5,6 @@
 - [x] Dia 3 - Condicional que verifica se um numero é par ou ímpar
 - [x] Dia 4 - Adicionando loço de Repetição
 - [x] Dia 5 - Função que imprime o quadrado de um numero
-- [ ] Dia 6 - 
+- [x] Dia 6 - Lista de frutas
 - [ ] Dia 7 - 
 
