@@ -6,5 +6,5 @@
 - [x] Dia 4 - Adicionando loço de Repetição
 - [x] Dia 5 - Função que imprime o quadrado de um numero
 - [x] Dia 6 - Lista de frutas
-- [ ] Dia 7 - 
+- [x] Dia 7 - Dicionario
 
