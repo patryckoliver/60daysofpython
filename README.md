@@ -6,5 +6,6 @@
 - [x] Dia 4 - Adicionando loço de Repetição
 - [x] Dia 5 - Função que imprime o quadrado de um numero
 - [x] Dia 6 - Lista de frutas
-- [x] Dia 7 - Dicionario 
+- [x] Dia 7 - Dicionario de aluno dinamico e estatico
+- [x] Dia 08 teste do up
 
