@@ -7,5 +7,5 @@
 - [x] Dia 5 - Função que imprime o quadrado de um numero
 - [x] Dia 6 - Lista de frutas
 - [x] Dia 7 - Dicionario de aluno dinamico e estatico
-- [x] Dia 08 teste do up
+- [x] Dia 08 -
 
